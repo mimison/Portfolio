@@ -89,3 +89,225 @@ body{
     object-fit: cover;
     border-radius: 50%;
 }
+
+#recent_posts_li >li{
+    display:inline-block;
+    list-style:none;
+    align-content: space-between ;
+}
+
+.recent_posts{
+    border: 1px solid black;
+    margin-top: 50px;
+    padding: 70px;
+    background-color: #edf7fa;
+    align-content: space-between
+}
+.view_all{
+    align-content: space-between;
+}
+
+.active{
+    color: #e22626 !important;
+}
+
+
+head {
+    display: none;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-family: 'Heebo', sans-serif;
+    scroll-behavior: smooth;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+
+.home-header {
+    display: none;
+}
+.home-header {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding-block: 30px;
+}
+.container {
+    width: 100%;
+    max-width: 1400px;
+    margin-inline: auto;
+    margin-block: 1rem;
+    padding-inline: 2rem;
+}
+body * {
+    transition: all 0.3s ease-in-out;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+header {
+    display: block;
+}
+
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-family: 'Heebo', sans-serif;
+    scroll-behavior: smooth;
+}
+.sect-two-wrapper container{
+    align-content: space-between;
+}
+
+
+
+.sect-one{
+    flex-wrap: wrap;
+    width: 90%;
+    padding: 0px 0px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+}
+.sect-one {
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    /* padding: 70px 190px; */
+    padding-block: 70px;
+}
+.container {
+    width: 100%;
+    max-width: 1400px;
+    margin-inline: auto;
+    margin-block: 1rem;
+    padding-inline: 2rem;
+}
+body * {
+    transition: all 0.3s ease-in-out;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+section {
+    display: block;
+}
+
+div {
+    display: block;
+}
+
+sect-one {
+    flex-wrap: wrap;
+    width: 90%;
+    padding: 0px 0px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+}
+.sect-one {
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    /* padding: 70px 190px; */
+    padding-block: 70px;
+}
+.container {
+    width: 100%;
+    max-width: 1400px;
+    margin-inline: auto;
+    margin-block: 1rem;
+    padding-inline: 2rem;
+}
+body * {
+    transition: all 0.3s ease-in-out;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+use
+section {
+    display: block;
+}
+
+.sect-two {
+    width: 100%;
+    padding: 10px 0;
+    margin-top: 390px;
+}
+.sect-two {
+    background: #EDF7FA;
+    padding-block: 70px;
+}
+body * {
+    transition: all 0.3s ease-in-out;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+user agent stylesheet
+section {
+    display: block;
+}
+
+.sect-three {
+    width: 90%;
+    padding: 0;
+    margin: auto;
+}
+.sect-three {
+    padding-block: 70px;
+}
+.container {
+    width: 100%;
+    max-width: 1400px;
+    margin-inline: auto;
+    margin-block: 1rem;
+    padding-inline: 2rem;
+}
+body * {
+    transition: all 0.3s ease-in-out;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+section {
+    display: block;
+}
+
+.footer {
+    padding-top: 170px;
+}
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 0;
+}
+
+body * {
+    transition: all 0.3s ease-in-out;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+footer {
+    display: block;
+}
